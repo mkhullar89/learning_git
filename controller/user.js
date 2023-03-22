@@ -8,4 +8,5 @@ class UserController{
   async test_wallet(){}
   async new_wallet()
   async new_Wallet(){}
+  async this_dev_function()
 }
