@@ -1,5 +1,8 @@
 class UserController{
 
+  CONST_ONE
+  CONST_TWO
+  CONST_THREE
   async createAccountAndWallet(){
     //new user account with email and password
   }
